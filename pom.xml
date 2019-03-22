@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>pl.waw.inpar.examples</groupId>
-	<artifactId>Example A</artifactId>
+	<artifactId>example-a</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
