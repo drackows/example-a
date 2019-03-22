@@ -1,6 +1,6 @@
 node {
     stage 'Clone the project'
-    git 'git@github.com:drackows/example-a.git'
+    git 'https://github.com/drackows/example-a.git'
 
     dir('example-a-pipeline') {
 
